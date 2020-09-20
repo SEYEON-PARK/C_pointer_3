@@ -11,7 +11,7 @@ int main(void)
 	
 	b = sub(a);
 
-	printf("30-5´Â %dÀÔ´Ï´Ù.\n", b);
+	printf("30-5ëŠ” %dì…ë‹ˆë‹¤.\n", b);
 
 	return 0;
 }
